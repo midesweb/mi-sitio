@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/bienvenidos-a-hugo/</loc>
+    <loc>https://midesweb.github.io/mi-sitio/posts/bienvenidos-a-hugo/</loc>
     <lastmod>2020-06-02T21:10:07+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://midesweb.github.io/mi-sitio/posts/</loc>
     <lastmod>2020-06-02T21:10:07+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/primer-post/</loc>
+    <loc>https://midesweb.github.io/mi-sitio/posts/primer-post/</loc>
     <lastmod>2020-06-02T21:09:40+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/contacto/</loc>
+    <loc>https://midesweb.github.io/mi-sitio/contacto/</loc>
     <lastmod>2020-06-02T21:03:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://midesweb.github.io/mi-sitio/</loc>
     <lastmod>2020-06-02T21:03:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://midesweb.github.io/mi-sitio/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://midesweb.github.io/mi-sitio/tags/</loc>
   </url>
   
 </urlset>

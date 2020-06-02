@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://midesweb.github.io/mi-sitio/"
 languageCode = "es"
 title = "Mi Site"
 theme = "tale"
