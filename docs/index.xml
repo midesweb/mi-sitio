@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Prueba Nueva</title>
+      <link>https://midesweb.github.io/mi-sitio/posts/prueba-nueva/</link>
+      <pubDate>Tue, 02 Jun 2020 21:32:07 +0200</pubDate>
+      
+      <guid>https://midesweb.github.io/mi-sitio/posts/prueba-nueva/</guid>
+      <description>Personalmente creo que el resultado es estupendo!!
+¿Qué os ha parecido?</description>
+    </item>
+    
+    <item>
       <title>Bienvenidos a Hugo</title>
       <link>https://midesweb.github.io/mi-sitio/posts/bienvenidos-a-hugo/</link>
       <pubDate>Tue, 02 Jun 2020 21:10:07 +0200</pubDate>

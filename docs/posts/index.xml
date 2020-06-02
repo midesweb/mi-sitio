@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Mi Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 02 Jun 2020 21:10:07 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 21:32:07 +0200</lastBuildDate>
     
 	<atom:link href="https://midesweb.github.io/mi-sitio/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prueba Nueva</title>
+      <link>https://midesweb.github.io/mi-sitio/posts/prueba-nueva/</link>
+      <pubDate>Tue, 02 Jun 2020 21:32:07 +0200</pubDate>
+      
+      <guid>https://midesweb.github.io/mi-sitio/posts/prueba-nueva/</guid>
+      <description>Personalmente creo que el resultado es estupendo!!
+¿Qué os ha parecido?</description>
+    </item>
     
     <item>
       <title>Bienvenidos a Hugo</title>
