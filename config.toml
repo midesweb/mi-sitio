@@ -1,7 +1,10 @@
 baseURL = "https://midesweb.github.io/mi-sitio/"
 languageCode = "es"
-title = "Mi Site"
+title = "InmoCasas"
 theme = "tale"
+
+[Author]
+  name = "Miguel Angel Alvarez"
 
 [menu]
   [[menu.main]]
@@ -16,3 +19,6 @@ theme = "tale"
     title = "Posts"
     url = "/posts/"
     weight = 0
+
+[params]
+  css = ["css/estilos.css"]
